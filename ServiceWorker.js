@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-Cozy XR-0.1.0";
 const contentToCache = [
     "Build/CozyXR.loader.js",
-    "Build/CozyXR.framework.js.br",
-    "Build/CozyXR.data.br",
-    "Build/CozyXR.wasm.br",
+    "Build/CozyXR.framework.js",
+    "Build/CozyXR.data",
+    "Build/CozyXR.wasm",
     "TemplateData/style.css"
 
 ];
